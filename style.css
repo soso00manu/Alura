@@ -1,0 +1,26 @@
+body {
+    font-family: "roboto", sans-serif;
+    background-color: blueviolet;
+    color: black;
+    margin-bottom: 100px;
+
+}
+.chamada{
+    background-color: aliceblue;
+    
+}
+
+
+
+
+
+
+
+
+h1{
+    font-size: 35px;
+}
+.chamada-testo{
+     margin-right: 5%;
+}
+
